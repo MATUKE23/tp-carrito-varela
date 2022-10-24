@@ -1,0 +1,9 @@
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\Negocio\bin\Debug\Negocio.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\Negocio\bin\Debug\Negocio.pdb
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\Negocio\bin\Debug\Dominio.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\Negocio\bin\Debug\Dominio.pdb
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\Negocio\obj\Debug\Negocio.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\Negocio\obj\Debug\Negocio.pdb

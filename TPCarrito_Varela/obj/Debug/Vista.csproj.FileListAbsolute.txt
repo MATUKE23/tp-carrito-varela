@@ -1,0 +1,126 @@
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\TPCarrito_Varela.dll.config
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\TPCarrito_Varela.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\TPCarrito_Varela.pdb
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csc.exe
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csc.exe.config
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csc.rsp
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csi.exe
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csi.exe.config
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csi.rsp
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.AppContext.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Console.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Globalization.Calendars.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.IO.Compression.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.IO.FileSystem.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Net.Http.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Net.Sockets.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.ValueTuple.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Xml.XPath.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\vbc.exe
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\vbc.exe.config
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\vbc.rsp
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\obj\Debug\Vista.csproj.AssemblyReference.cache
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\obj\Debug\Vista.csproj.CopyComplete
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\obj\Debug\TPCarrito_Varela.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\obj\Debug\TPCarrito_Varela.pdb
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\Dominio.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\Dominio.pdb
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\Negocio.dll
+D:\PROGRAMACION III 2do Cuat\TP Carrito de Compras\TPCarrito_Varela\TPCarrito_Varela\bin\Negocio.pdb
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\TPCarrito_Varela.dll.config
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\TPCarrito_Varela.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\TPCarrito_Varela.pdb
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csc.exe
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csc.exe.config
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csc.rsp
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csi.exe
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csi.exe.config
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\csi.rsp
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.AppContext.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Collections.Immutable.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Console.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Globalization.Calendars.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.IO.Compression.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.IO.FileSystem.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Net.Http.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Net.Sockets.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Reflection.Metadata.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.ValueTuple.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Xml.XPath.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\vbc.exe
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\vbc.exe.config
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\vbc.rsp
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\VBCSCompiler.exe
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\roslyn\VBCSCompiler.exe.config
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\Dominio.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\Negocio.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\Dominio.pdb
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\Negocio.pdb
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\obj\Debug\Vista.csproj.CopyComplete
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\obj\Debug\TPCarrito_Varela.dll
+C:\Repository\TPCarrito_Varela\TPCarrito_Varela\obj\Debug\TPCarrito_Varela.pdb
